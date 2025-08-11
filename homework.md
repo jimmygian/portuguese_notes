@@ -50,47 +50,6 @@ d) 77 84 90 73 85 76 88 79 80 71
 
 **12** **2** **14** **13** **19** **6** **10** **33** **45** **66** **125** **15** **105** **84** **16** **3**
 
-um uma
-dois duas
-três
-quatro
-cinco 
-seis
-sete
-oito
-nove
-dez
-onze
-doze
-treze
-**quatorze**
-**quinze**
-**dezesseis**
-**dezessete** 
-**dezoito**
-**dezenove**
-vinte
-vinte e um
-trinta
-quarenta
-cinquenta
-sesenta
-setenta
-oitenta
-noventa
-cem 
-cento e um
-duzentos
-trezentos
-quatrocentos
-quinhentos
-seiscentos
-setecentos
-oitocentos
-novecentos
-mil
-
-
 ### Pratica
 
 #### As horas

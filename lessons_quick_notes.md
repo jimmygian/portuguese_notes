@@ -235,3 +235,159 @@ Vou à praia
 
 Vou a + a praia → a + a = à 
 (Voy a la playa)
+
+
+
+## 20250811 - Lesson 3
+
+**
+
+Desauno → (no) café da manhã
+
+Pequeno almonço
+
+  
+
+Vou jantar = voy a cenar
+
+cena de filme = escena de película
+
+Fofocar
+
+Cha
+
+  
+
+Sã duas (horas)
+
+São 15 para ås 10
+
+  
+
+Eu acordo ås 7:45?
+
+  
+
+A que horas voce toma café de manha? 
+
+  
+
+(salir)
+
+Sai pro trabalho?
+
+A que horas voce sai do trabalho?
+
+Eu saio ås 7:30
+
+  
+
+A que horas voce almorza?
+
+Eu almoço ås 12 / ao meio-dia
+
+  
+
+A que horas voce janta?
+
+Eu janto ås 9
+
+  
+
+A que horas voce dorme / vai dormir?
+
+Eu vou dormir ås dez (10)
+
+
+das três às sete
+das 18:30 às 20:30 da Inglaterra
+Você quer ir ao cinema?
+Me da uma cerveza?
+Vou querer
+
+Eu tenho médico às 9 da manhã
+nós temos dentista agora
+tenho uma reunião agora.
+
+Tenho que ir ao banco.
+Tenho que ir
+
+Segunda-feira, de manhã, eu ... faço ... e a tarde tenho aula de Port...
+
+
+Pronomes demostrativos e possessivos (este/esta / estes/estas)
+
+Meu amigo / Minha amiga
+
+Esta é nossa colega.
+Minha chefe é legal. Meu chefe é um saco.
+O chefe / A chefe
+Meu colega Carlos / Minha colega Ana
+Irmão / irmã / irmãos / irmãs.
+
+A casa da Paula é grande.
+(A) minha casa é grande.  --> podemos sacar el "a"
+
+borracha = un borador
+borracha (no es borracha)
+
+
+Cosas que usamos no escritório
+óculos
+caderno
+régua
+relógio
+lápis = lápiz (pencil)
+durex = tape
+cinzeiro = ashtray
+grampeador = stapler
+caneta = pen
+régua = regla (ruler)
+calculadora = calcurator
+bloco de anotaçoes = notepad
+tesoura --> "cheezora"
+.. busca mais palabras
+cadeira = silla (chair)
+teclado
+notebook / laptop / mouse / internet
+
+Ir + infinitivo
+Vou almoçar = voy a almorzar
+
+
+sou / estou ./ vou
+é / está / vai
+somos / estamos / vamos
+são / estão / vão
+
+Nos vamos à academia na sexta-feira.
+Nos vamos à academia às sextas-feiras.
+Irei viajar amanhã
+
+generalmente
+às vezes
+raramente
+nunca
+
+Eu às vezes vou ao jogo de futebol.
+
+O que você vai fazer...? = Qué vas a hacer...?
+O que você vai fazer no domingo / a manhã de manhã?
+"Kiki ce vai fazê...?"
+
+I "can"drive very well
+Eu ...
+
+ter folga (I have a day off)
+telemóvel
+
+Você pode ir ao banco às duas a meia?
+Não posso, tenho dentista.
+
+Podemos jantar juntos amanhã?
+Não posso jantar amanhã, não tenho muito dinheiro
+
+Eles podem ir ao cinema?
+Não posso, tenho muito trabalho esos dias.
+
+

@@ -6,15 +6,39 @@
       {
         "id": "2613cf0bfa3885f2",
         "type": "tabs",
+        "dimension": 41.212534059945504,
         "children": [
           {
             "id": "0a65f42eda0e1c65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "lessons_quick_notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lessons_quick_notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ffb8356efa511186",
+        "type": "tabs",
+        "dimension": 58.787465940054496,
+        "children": [
+          {
+            "id": "627569ff252b85c8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/NAB1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NAB1"
             }
           }
         ]
@@ -74,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "235e795047c85c0e",
@@ -165,9 +190,11 @@
   },
   "active": "0a65f42eda0e1c65",
   "lastOpenFiles": [
+    "resources/NAB1.pdf",
+    "lessons_quick_notes.md",
+    "homework.md",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/03 Faixa 03.mp3",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/01 Faixa 01.mp3",
-    "resources/NAB1.pdf",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/98 Faixa 98.mp3",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/96 Faixa 96.mp3",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/97 Faixa 97.mp3",
@@ -175,9 +202,6 @@
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/95 Faixa 95.mp3",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/93 Faixa 93.mp3",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/92 Faixa 92.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/91 Faixa 91.mp3",
-    "lessons_quick_notes.md",
-    "homework.md",
     "README.md",
     "vocabulary.md",
     "vocabulário.md",

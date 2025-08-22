@@ -6,7 +6,6 @@
       {
         "id": "2613cf0bfa3885f2",
         "type": "tabs",
-        "dimension": 41.212534059945504,
         "children": [
           {
             "id": "0a65f42eda0e1c65",
@@ -20,25 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "lessons_quick_notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ffb8356efa511186",
-        "type": "tabs",
-        "dimension": 58.787465940054496,
-        "children": [
-          {
-            "id": "627569ff252b85c8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "resources/NAB1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "NAB1"
             }
           }
         ]
@@ -98,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "235e795047c85c0e",
@@ -190,20 +169,20 @@
   },
   "active": "0a65f42eda0e1c65",
   "lastOpenFiles": [
+    "vocabulary.md",
+    "homework.md",
     "resources/NAB1.pdf",
     "lessons_quick_notes.md",
-    "homework.md",
+    "resources/~$eposições - Beginners.docx",
+    "resources/Preposições - Beginners.docx",
+    "resources/Preposições - Beginners.docx.zmdownload",
+    "resources/Workshop Beginner 16 de agosto.docx",
+    "resources/Workshop Beginner 16 de agosto.docx.zmdownload",
+    "resources/Ser ou estar.docx",
+    "resources/Ser ou estar.docx.zmdownload",
+    "README.md",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/03 Faixa 03.mp3",
     "resources/audio_aven_Bras_1-20250810T232327Z-1-001/01 Faixa 01.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/98 Faixa 98.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/96 Faixa 96.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/97 Faixa 97.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/94 Faixa 94.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/95 Faixa 95.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/93 Faixa 93.mp3",
-    "resources/audio_aven_Bras_1-20250810T232327Z-1-001/92 Faixa 92.mp3",
-    "README.md",
-    "vocabulary.md",
     "vocabulário.md",
     "lições_de_casa.md",
     "Lições de casa.md",

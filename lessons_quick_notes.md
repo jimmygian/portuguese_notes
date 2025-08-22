@@ -391,3 +391,245 @@ Eles podem ir ao cinema?
 Não posso, tenho muito trabalho esos dias.
 
 
+
+
+## 20250816 - Workshop 1
+
+ficar = quedar (stay)
+
+quanto tempo fica em Madrid? = Quanto tiempo quedas en Madrid?
+fico em Madrid por duas semanas
+por --> 
+
+Está frio ou calor? --> Muito calor
+
+voce é inglesa?
+
+Quando é a festa?
+
+Brindadeira = Joke
+
+De Lisboa?
+
+Ainda não --> not yet
+
+Por que você  está em Madrid agora?
+
+
+é chato = is boring
+é interesante = es interesante 
+
+eu também tenho muitos amigos
+
+mas - preposição but
+
+mais um café / mais dois cafés
+
+mais ou menos
+
+todas a semanas 
+todos os dias = cada dia
+
+a minha família = mi familia
+
+o carro dele é novo 
+a casa dela é pequena
+
+a minha casa é grande
+
+ela estuda comigo
+ela trabalha comigo
+
+O pai dela é inglês
+
+-----
+o pai
+a mãe
+os filhos - o filho / a filha
+os irmãos - um irmão
+
+você tem uma irmã?
+eu sou filho único
+
+tio / tia
+primo / prima
+
+avô - avó
+
+-----
+
+
+mais parecido ao francês
+
+por três semanas /
+
+nao , muito
+
+tudo funciona = everything works
+
+eu quero um copo de agua
+eu quero a conta
+eu quero um cardápio
+
+eu posso te encontrar amanhã
+
+onde posso te encontrar? 
+> pode me encontrar na escola
+
+
+eu sou casado
+
+eu estou com fome
+eu estou em casa
+eu
+
+---
+
+Ser -- nacionalidade, profissao, estado civil
+Estar -- 
+
+Salvador é grande e bonita
+Londres é grande e muito interessante
+
+Eu estou com calor
+Você  esta com frio?
+Ele esta com fome
+Ela esta com sede
+
+#No's  estamos ocupados hoje.
+Ele nos  evniou um presente. (nos here is indirect pronoun)
+
+---
+
+
+Os estao na mesa? 
+> Estao sim.
+
+
+Mariana, voce esta com sono? Eu estou sim
+
+Doutor Preira e comerciante
+
+Eu estou muito contente!
+
+Eles tiram fotos paraum jornal do Rio
+tirar = sacar (take photos)
+
+
+eu sai' para caminhar. 
+Eu vou caminhar / andar
+
+Como vai? (A bit more formal)
+
+IR
+
+Ele vail pra/para Salvador.
+Nos vamos de carro para a /  à festa
+
+Eles vao de metro
+
+Eu vou para o/ ao Brasil em Fevereiro
+
+
+Ele vai beber um cafe
+Ela vai comer uma salada / uma moqueca
+Nos vamos trabalhar
+
+Eu estudo na escola (em+a --> na)
+Eu trabalho no (em+ o --> no)
+
+Voce gosta de caipirinha?
+Eu nunca provei. --> I never tried
+
+Gostar **de**
+Os brasileiros nao gostam de cha com leite
+Quando voces vao para Paris?
+
+(ficar = stay)
+Ele sempre fica em Salvador quando vai ao Brasil.
+
+Ele trabalha em+o (no) banco ao lado da escola.
+Maria tem uma irma nos Estado Unidos.
+
+
+
+## 20250818 - Lesson 3
+
+Vou subir
+Vou baixar
+
+na quarta vou a um restaurante
+na quarta vou ao Mikonos, um restaurante de um amigo.
+Vou viajar
+Vou assar um bolo (I am going to roast)
+Voy fazer un chorrasco (churrascaria) = I'm going to have a barbecue (barbecue restaurant)
+
+
+Amanha, 
+
+A proxima semana, eu e mios amigos vamos viajar a grecia.
+Amanhã, depois do trabalho, vou comprar roupas para as minhas férias.
+nosso feriado =
+
+cedo = temprano
+cedinho = muy temprano
+tarde = tarde
+
+pequenininho
+coitaginho = pobrecito
+
+Então = entonces = then
+piquenique
+
+
+ir a pousada
+ir ao parque
+fazer uma excursão
+ir à praia / ir ao parque / ir a uma exposição
+Vamo tomá uma?
+Vomos dançar
+
+
+Oi o que va a facer 
+Agora, depois de aula, vou voltar em minha casa, jantar e dormir
+Esta semana, va viajar:
+Onde voce esta agora, em Londres:
+Va a viajar esta semana en algum citio:
+
+
+casa antigona = casa antigua
+
+Uma moçada de idade universitaria = un grupo de persoas
+
+ao embalo de dance electronico = 
+
+Certo ; Errado
+
+ouvido = oido
+
+Trabalhem em pares, por favor
+
+peixe grelhado = grilled
+
+Uns 20 minutos ; 20 minutos mais o menos 
+Tenho uns amigos Argentinos em São Paolo
+Vamos comprar uns pãezinhos;
+
+Eu gosto = me gusta
+Voce gosta de ..
+Ele ;ela gosta
+
+pinga = cachaça
+
+albuma debida aqui;
+
+Malpassado = con sangre = rare
+Bem passado=
+batatas = papas
+guarniçoes = side dishes
+
+ressaca = hangover
+
+
+gelado - helado
+hoje está gelado lá fora

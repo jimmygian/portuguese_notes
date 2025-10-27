@@ -145,34 +145,34 @@
 | vai ligar de novo                                  | llamaré de nuevo                                       | will call again                                        |
 | o tempo voa                                        | el tiemo vuela                                         | time flies                                             |
 |                                                    |                                                        |                                                        |
+| **LIÇÃO 3**                                        | **LECCIÓN 3**                                          | **LESSON 3**                                           |
+| o caderno                                          | el cuaderno                                            | notebook                                               |
+| notebook                                           |                                                        | laptop                                                 |
+| os óculos                                          | los gafas                                              | the glasses                                            |
+| o durex / a fita adesiva                           | La cinta adhesiva                                      | the tape                                               |
+| a régua                                            | la regla                                               | the ruler                                              |
+| o relógio                                          | el reloj                                               | the clock/watch                                        |
+| a caneta                                           | el lápiz                                               | the pen                                                |
+| o lápis                                            | el lápiz                                               | the pencil                                             |
+| o bloco de anotaçoes                               | el bloc de apuntes                                     | a post-it note                                         |
+| a calculadora                                      | la calculadora                                         | the calculator                                         |
+| o cinzeiro                                         | el cenicero                                            | the ashtray                                            |
+| a bolsa                                            | la bolsa                                               | the purse                                              |
+| a mesa                                             | la mesa                                                | the table                                              |
+| a escrivaninha                                     |                                                        | the desk                                               |
+| a cadeira                                          | la silla                                               | the chair                                              |
+| a lampada                                          |                                                        | the lamp                                               |
+| o abajur (lampada de mesa)                         | el aplique                                             | the table lamp                                         |
+| a mochila                                          | la mochilla                                            | the backpack                                           |
+| a tesoura                                          | Las tijeras                                            | the scissors                                           |
 |                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
-|                                                    |                                                        |                                                        |
+| almoçar                                            | almorzar                                               | to have lunch                                          |
+| jantar                                             | cenar                                                  | to have dinner                                         |
+| Podemos jantar juntos amanhã?                      | Podemos cenar juntos mañana?                           | Can we have dinner tomorrow?                           |
+| ter folga                                          |                                                        | to have PTO                                            |
+| não ter tempo                                      | no tengo tiempo                                        | I don't have time                                      |
+| ter programa                                       | tener planes                                           | to have a plan                                         |
+| Você tem algum programa hoje a noite?              |                                                        |                                                        |
 |                                                    |                                                        |                                                        |
 |                                                    |                                                        |                                                        |
 |                                                    |                                                        |                                                        |

@@ -633,3 +633,381 @@ ressaca = hangover
 
 gelado - helado
 hoje está gelado lá fora
+
+
+
+## 20250908 - Lesson 5
+
+O meu (formal) / meu
+A minha (formal) / minha
+
+Seu / sua
+O seu / a sua
+
+
+Este/Ese gato e seu?
+De quien e este gato? (?)
+
+
+O senhor / a senhora seu/sua
+
+voce - teu/tua
+o senhor / a senhora
+
+O meu cellular e preto
+
+Essa caneta é tua?
+Essa caneta é de você?
+
+Aquelo / Aquela
+Aquela / Esta / Essa
+
+De quem é aquelo telemóvel?
+His --> Dele / deles
+Hers --> Dela / delas
+
+a lata de bebida = the can
+
+aquela lata é dele
+
+Ours:
+Nosso / Nossa / Nossos / Nossas
+
+A nossa gata é branca
+
+BOOK: Page --> 18 for above
+
+__
+
+Isto, Isso, Aquilo
+(They don't have masc / fem / plural)
+O que é isso?
+O que é isto?
+O que é aquilo?
+
+Este, Esse, Aquele
+Esta, Essa, Quela
+
+De que cor é essa carteira?
+
+De que cor é essa caneta?
+Esta caneta é roza.
+
+De que cor são aqueles libros?
+
+Aquele libro é Castanho
+
+AR
+ER
+IR
+
+eu abro
+você abre
+nos abrimos
+vocês abrem
+eles/elas abrem
+
+O João e português mais esta no Japão para visitar a país.
+
+A Norma está no Brasil para aprender português.
+
+Nós estamos em Fortaleza para fazer férias.
+
+Eu sou na Grecia
+
+
+pagina 24 
+
+Querer
+eu quero
+você quer
+nos queremos
+vocês querem
+eles/elas querem
+
+apenas / só
+
+ela vai ficar apenas um dia?
+
+em que dia ele vai salir?
+ele vai salir no dia 13 de novembro
+
+Pois não? ==  Yes?
+
+com / sem = con / sin
+
+Os apartamentos de f
+Os apartamentos de trás são mais baratos.
+
+Ele leva a bagagem 
+A senhora vai ficar no quarto trezentos e quinze.
+
+Para tomar um duche
+chuveiro > shower
+
+mofo --> moho (mold)
+
+O problema tem solução?
+
+------------
+
+You arrive in a hotel
+Have a reservation
+
+You tell your name
+You ask which room
+
+You see a problem
+You don't like that,
+
+You go back and speak to the reception and solve the problem
+
+xxxxxxxxx
+
+Ola
+Ola, quero fazer uma reserva,
+Para hoje,
+Sim, solo um dia por favor,
+solo eu mais queria um apartamento duplo.
+Nao gosto do barrulho.
+Aqui tem a chave
+Obrigado.
+
+---
+
+Pois nao?
+Queria mudar de quarto por fa
+Ese quarto e muit pequeno e um poco escuro. 
+então não tem problema! Vou ficar en lo mismo. Desculpem
+
+
+Por noite
+barulhento = 
+para mim
+
+Eu prefiro
+pequeno
+luminoso
+mesmo 
+alguma
+
+
+
+## 202509015 - Lesson 6
+
+(p. 25)
+le -> lhe
+disse-lhe
+quisas tal vez -> talvez 
+
+AR
+Eu quero que você fale com ela
+
+ER
+Eu espero que você coma mais
+
+**Imperativo**
+(Eu) Acho que + opinião 
+
+não acho que meu gato coma muito
+
+tomar/pegar um ônibus.
+
+talvez eu va amanhã
+
+vá (ir)
+seja (ser)
+esteja (estar)
+dê (dar)
+
+Não esteja triste.
+Dê este libro a Mary.
+
+**B1 - p.26**
+
+Meu / minha
+Seu / Sua
+Teu / Tua 
+Nosso / Nossa
+De vocês 
+
+A gata delas 
+
+Dele / Dela
+Deles / Delas
+
+Virar (to turn)
+Vire à direita
+Você vira à direita
+Você segue a frente
+
+
+Onde Philipe va encontrar Alcides?
+
+está? --> Helo! 'ta?
+
+De onde fala?
+Aqui e o Alcides.
+
+Alcides esta no ônibus.
+O ônibus esta parado porque esta avariado.
+O ônibus va a ficar uma o duas horas.
+
+ficar 1-2 a vitoria
+
+Para vitoria
+Cervejinha
+Que sorpresa!
+
+invitar -> convidar
+
+
+
+Barsinho
+
+vira a direita, 4 
+
+Telefonico do posto
+
+---
+
+O pessoal va ficar muito contente.
+
+Eu gostaria mais não da tempo
+
+num instante (rapidamente)
+
+
+eu esto
+
+Ele esta (em + um) num barzinho
+nome da rua
+
+seguir (eu sigo, você segue)
+virar
+pegar uma rua (para)
+
+pega rua 
+
+vica a direita y
+sega a
+ao lado do telefone
+
+
+barzinho
+pega rua 
+otimo, vira a direita 
+voce vira a direita
+
+prestar atencão (pay attention)
+preste atencão
+
+ reto (en frento)
+ você segue reto/em frente
+virar á direita
+você vira á direita
+
+pegar/tomar esa rua.
+
+esquina , quarteirão
+(a corner, a block)
+
+no posto de gasolina
+(a place) 
+
+ao lado no telefono publico
+Fale mais alto.
+
+o logar para vender jornal - banca de jornais
+
+Vire à direita!
+Siga em frente.
+
+------
+
+
+tenha cuidado
+
+Onde  voce esta agora?
+
+Bar do Ze.
+
+siga em frente e preste atencao a um edificio baixo.
+cuando chega lá, vira á direita y pegue a rua até chegar ao
+
+y depois
+
+esta rua está bloqueada.
+
+a sua direita pode ver
+
+
+
+## 202509022 - Lesson 7
+
+seja / sejam
+coma / comam
+fale / falem
+
+------
+
+Eu quero / Eu queria
+Eu vou pedir
+O que (o senhor) vai pedir..?
+
+garçon
+
+Ivo Azevedo é fazendeiro y morra do interior de Minas Gerais. Ele gosta de praia pero nao quere gastar dingeiro nas ferias. Prefere investir-os em bons negocios. Acho que se ele tem algum dinheiro para gastar, talvez gustaría vai na Aldeia de Sahy porque en Mina Gerais nao tem praias para aproveitar. Uma otra opcion que ele gustaria e a Solareia Mar.
+
+anúncio 
+
+são apartamentos para alugar o comprar.
+
+partilhar = to share
+
+quente --> aquecer --> aquecida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eu matei o gato que nos compramos um pouco antes.
+Você bebeu toda a minha bebida? 
+Y eu não bebi nada.
+
+punha
+punha
+púnhamos
+
+tinha
+
+vinha
+
+era

@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "441b80ce25f0562f",
+        "id": "2f4aaef5f23b49a5",
         "type": "tabs",
+        "dimension": 34.70948012232416,
         "children": [
           {
-            "id": "aede26510aa6fad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "level_1-2/homework.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "homework"
-            }
-          },
-          {
-            "id": "3bf7a11f532b4268",
+            "id": "606b5009ccd4c492",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +22,38 @@
               "title": "L3 - Lição 4 - Quick Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "28e0d16a19c29f59",
+        "type": "tabs",
+        "dimension": 65.29051987767585,
+        "children": [
+          {
+            "id": "23e8427a9a2e9d72",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "level_3/Falar Ler Escrever Portugues.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Falar Ler Escrever Portugues"
+            }
+          },
+          {
+            "id": "e289f70e5bb53909",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "level_3/Gramatica Ativa 1 BR Version.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Gramatica Ativa 1 BR Version"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "235e795047c85c0e",
@@ -194,25 +211,29 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "3bf7a11f532b4268",
+  "active": "23e8427a9a2e9d72",
   "lastOpenFiles": [
-    "level_3/lesson_quick_notes.md",
+    "level_1-2/resources/NAB1.pdf",
     "level_3/L3_1/L3 - Lição 4 - Quick Notes.md",
+    "Screenshot 2025-10-27 at 20.07.40.png",
+    "level_3/Gramatica Ativa 1 BR Version.pdf",
+    "level_3/Falar Ler Escrever Portugues.pdf",
+    "level_3/Screenshot 2025-10-27 at 19.29.08.png",
+    "level_3/Screenshot 2025-10-27 at 19.30.57.png",
+    "level_3/preop d.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "level_1-2/homework.md",
+    "level_3/lesson_quick_notes.md",
     "level_3/L3_1",
-    "resources/NAB1.pdf",
     "level_1-2/vocabulary.md",
     "level_1-2/Verbos.md",
     "level_3",
     "level_1-2/lessons_quick_notes.md",
-    "level_1-2/homework.md",
     "level_1-2",
     "README.md",
     "Untitled 2.base",
-    "Untitled.base",
     "Untitled 3.base",
-    "Untitled 1.base",
-    "resources/Workshop Beginner 16 de agosto.docx",
-    "resources/Ser ou estar.docx",
     "vocabulário.md",
     "lições_de_casa.md",
     "Lições de casa.md",

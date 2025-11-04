@@ -145,3 +145,136 @@ _____
 A quatro comodos a min
 
 foi um enorme prazer conhece-los
+
+
+
+## NAB1 - p.33
+
+Esta é a chave do portão = This is the key of the door
+A suíte é **mais** escura **do que** a sala = The suite is darker than the living room.
+**Não** gostei **nem um pouco** desta casa!
+O abajur está em cima da mesa, ao lado da cama. = The lamp is on the table, next to the bed.
+
+livin room = sala
+sala de jantar = dining room
+ cozinha
+ banheiro
+ dormitório
+ área de servíço = service area
+ jardim = garden
+ garagem
+ **receber** amigos
+ **tomar banho** de chuveiro
+ **lavar** e **passar** roupa
+
+**PREPOSIÇÕES**
+em cima da = on top of
+O laptop está em cima da mesa.
+
+atrás da = behind the  / na = on the
+A lousa está **atrás da** professora, na parede.
+(A lousa = the blackboard)
+
+Embaixo = under
+a bolsa está **embaixo** da mesa menor.
+
+Ao lado = besides the / em frente = in front of
+A professora está **ao lado** da mesa, **em frente da** lousa.
+
+perto do = close to.
+O gravador está **perto do** computador.
+
+entre = between
+
+
+
+## Homework
+
+### NAB - p.85, A1
+
+#### A1
+
+B
+
+D
+
+C 
+
+A
+
+
+#### A2
+
+a) Esta casa é bonita, mas **pequena**.
+b) A cozinha é pequena, mas **agradável** / **ensolarada**.
+c) Este quarto é menor do que o outro, mas é ensolarada(??).
+e) Este apartamento é confortável, mas úmido
+
+
+#### p.86 - 4 A Sala
+b) As almofadas estão **em cima do** sofá.
+c) À esquerda, **atras** do vaso de plantas..
+d) O quadro pequeno está **entre as** janelas.
+e) A mesa está **em frente** dos sofás.
+
+
+
+## FLE p. 33
+
+Estou procurando um apartamento = I'm looking for a house 
+Para alugar? = To rent?
+Para comprar.
+
+Ontem = Yesterday
+não achei nada = I didn't find anything.
+Você prefere mesmo morar no centro? = Do you REALLY prefer living in the center?
+..e fica **bem perto** da praia = .. and it's very close to the beach.
+
+### GRAMATICA ATIVA 1 - p.97
+
+#### 46.1
+1. Ela está sentada **ao lado do** bebê.
+2. O táxi vai **na frente do** ônibus.
+3. O passarinho está **dentro da** gaiola.
+4. Ele está debaixo/embaixo do carro.
+5. O Rio fica perto de São Paulo.
+6. Ela está tomando banho **na** piscina.
+7. Eles se encontraram a / na / na frente da porta do cinema.
+8. A cadeira está **ao lado do** sofá.
+
+#### 46.2
+1. O Pedro e a a Ana estão **na** sala de estar.
+2. A televisão está **na frente da** sofá.
+3. O Pedro setá sentado **no** sofá.
+4. O gato está **debaixo da** mesa.
+5. O cesto das revistas está **no** chão, a direita do sofá.
+6. O Pedro está com os pés **em cima da / na** cadeira.
+7. Os quadros estão na parede.
+8. A Ana está em pé **em/na frente da** janela.
+9. O jornal está **no** máo do Pedro.
+10. Os livros estão **na** estante.
+11. Os DVD estão **no** armario.
+12. O sofá está **entre as** cadeiras
+13. O abajur está **atras da** Ana.
+14. O bebê está sentado no/em cima da mesa.
+15. O cachorro está detras da avó.
+16. O vaso está **em cima da** mesa.
+
+#### 46.3
+1. O avô Antônio está de pé à esquerda.
+2. A Dona Helena está em pé entre o avô e o marido, o Afonso.
+3. O Afonso está em pé à direita.
+4. O João está setnado à esquerda, **em frente do** avô.
+5. A Ana está sentada entre o João e o Pedro.
+6. O Pedro está sentado à direita, na frente do pai, o Afonso.
+7. O avô Antônio está atras/detras de João.
+8. O Afonso está em pé **ao lado da** mulher, a Dona Helena.
+9. A Dona Helena está em pé **atras da** Ana.
+10. O João está sentado **ao lado** da irmã, a Ana.
+
+
+
+
+---
+
+

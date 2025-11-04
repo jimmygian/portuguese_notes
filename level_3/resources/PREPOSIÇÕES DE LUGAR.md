@@ -1,4 +1,4 @@
-**PREPOSIÇÕES DE LUGAR**
+
 
 - **Above** – acima de, mais alto do que, sobre. Ex.: _The plane is above the clouds_ (O avião está sobre as nuvens).
 - **Below** – abaixo de. Ex.: _Look at the sentence below_ (Olhe a frase abaixo).
@@ -17,4 +17,4 @@
 - **Among** – entre um grupo. Ex.: _Our house is among the trees_. (Nossa casa é entre as árvores).
 - **Around/round** – ao redor de, em um círculo. Ex.: _There are many trees around our house_ (Há muitas árvores ao redor de nossa casa).
 - **Inside** – dentro. Ex.: _You shouldn’t stay inside the buiding during an Earthquake_ (Você não deve ficar dentro do prédio durante um terremoto.
-- **Outside** – fora. Ex.: _Don’t leave the dog outside the house, it’s raining._ (Não deixe o cachorro for a de casa. Está chovendo).
+- **Outside** – fora. Ex.: _Don’t leave the dog outside the house, it’s raining._ (Não deixe o cachorro fora de casa. Está chovendo).

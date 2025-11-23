@@ -4,9 +4,40 @@
     "type": "split",
     "children": [
       {
+        "id": "ae16a1ea2cf43cb4",
+        "type": "tabs",
+        "dimension": 68.04860614724804,
+        "children": [
+          {
+            "id": "c2357f59cfacd6c1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "level_3/resources/Gramatica Ativa 1 BR Version.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Gramatica Ativa 1 BR Version"
+            }
+          },
+          {
+            "id": "df5e57d963ecc17e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "level_3/resources/NAB1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NAB1"
+            }
+          }
+        ]
+      },
+      {
         "id": "28e0d16a19c29f59",
         "type": "tabs",
-        "dimension": 68.38046272493573,
+        "dimension": 31.951393852751963,
         "children": [
           {
             "id": "8307bbe469882665",
@@ -23,27 +54,17 @@
             }
           },
           {
-            "id": "c2357f59cfacd6c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "level_3/resources/NAB1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "NAB1"
-            }
-          },
-          {
             "id": "6ffd1cf76474a43f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "level_3/resources/Falar Ler Escrever Portugues.pdf"
+                "file": "level_3/L3_5/L3_Liçao5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Falar Ler Escrever Portugues"
+              "icon": "lucide-file",
+              "title": "L3_Liçao5"
             }
           },
           {
@@ -84,41 +105,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "831e658c2b6b47d7",
-        "type": "tabs",
-        "dimension": 31.619537275064268,
-        "children": [
-          {
-            "id": "606b5009ccd4c492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "level_3/L4 - Lição 4 - Quick Notes 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L4 - Lição 4 - Quick Notes 1"
-            }
-          },
-          {
-            "id": "22d822249ce8cf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "level_3/L3_1/L3 - Lição 4 - Quick Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L3 - Lição 4 - Quick Notes"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -276,22 +262,25 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "606b5009ccd4c492",
+  "active": "c2357f59cfacd6c1",
   "lastOpenFiles": [
-    "level_3/L3_1/L3 - Lição 4 - Quick Notes.md",
     "level_3/resources/NAB1.pdf",
-    "level_3/resources/PREPOSIÇÕES DE LUGAR.md",
-    "level_3/L4 - Lição 4 - Quick Notes 1.md",
     "level_3/resources/Gramatica Ativa 1 BR Version.pdf",
     "level_3/resources/Móveis e utensílios_solved.pdf",
-    "level_3/resources/Falar Ler Escrever Portugues.pdf",
     "level_3/resources/Móveis e utensílios_clean.pdf",
+    "level_3/resources/Falar Ler Escrever Portugues.pdf",
+    "level_3/L3_5/L3_Liçao5.md",
+    "level_3/L3_5/Advérbios de frequência.md",
+    "level_3/L3_3/L3_Liçao4.md",
+    "level_3/L3_5",
+    "level_3/L3_1/L3 - Lição 4 - Quick Notes.md",
+    "level_3/L4 - Lição 4 - Quick Notes 1.md",
+    "level_3/L3_3",
+    "level_3/resources/PREPOSIÇÕES DE LUGAR.md",
     "level_3/L3_1/Screenshot 2025-10-27 at 20.07.40.png",
     "Untitled 1.base",
     "Untitled.base",
     "level_3/resources/Móveis e utensílios.pdf",
-    "level_3/resources/Móveis e utensílios_solved.pdf.sb-5da218dc-V3o3Gr",
-    "level_3/Móveis e utensílios_solved.pdf",
     "level_1-2/homework.md",
     "level_3/Screenshot 2025-10-27 at 19.30.57.png",
     "level_3/Screenshot 2025-10-27 at 19.29.08.png",

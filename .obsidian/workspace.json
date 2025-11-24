@@ -21,18 +21,31 @@
             }
           },
           {
-            "id": "df5e57d963ecc17e",
+            "id": "a0a0aaec21b8eefc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "level_3/resources/NAB1.pdf"
+                "file": "level_3/resources/Falar Ler Escrever Portugues.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "NAB1"
+              "title": "Falar Ler Escrever Portugues"
+            }
+          },
+          {
+            "id": "9678cf31e0c1719b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "level_3/resources/Gramatica Ativa 1 BR Version.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Gramatica Ativa 1 BR Version"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28e0d16a19c29f59",
@@ -59,12 +72,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level_3/L3_5/L3_Liçao5.md",
+                "file": "level_3/L3_5/L3_Liçao-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3_Liçao5"
+              "title": "L3_Liçao-5"
             }
           },
           {
@@ -262,25 +275,26 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c2357f59cfacd6c1",
+  "active": "6ffd1cf76474a43f",
   "lastOpenFiles": [
-    "level_3/resources/NAB1.pdf",
+    "level_3/resources/Falar Ler Escrever Portugues.pdf",
     "level_3/resources/Gramatica Ativa 1 BR Version.pdf",
+    "level_3/L3_5/L3_Liçao-5.md",
+    "level_3/resources/PREPOSIÇÕES DE LUGAR.md",
+    "level_3/resources/Advérbios de frequência.md",
+    "level_3/L3_6/L3_Liçao-6.md",
+    "level_3/L3_1/L3_Lição-1.md",
+    "level_3/L3_3/L3_Liçao-3.md",
+    "level_3/resources/NAB1.pdf",
+    "level_3/L3_6",
     "level_3/resources/Móveis e utensílios_solved.pdf",
     "level_3/resources/Móveis e utensílios_clean.pdf",
-    "level_3/resources/Falar Ler Escrever Portugues.pdf",
-    "level_3/L3_5/L3_Liçao5.md",
-    "level_3/L3_5/Advérbios de frequência.md",
-    "level_3/L3_3/L3_Liçao4.md",
     "level_3/L3_5",
-    "level_3/L3_1/L3 - Lição 4 - Quick Notes.md",
     "level_3/L4 - Lição 4 - Quick Notes 1.md",
     "level_3/L3_3",
-    "level_3/resources/PREPOSIÇÕES DE LUGAR.md",
     "level_3/L3_1/Screenshot 2025-10-27 at 20.07.40.png",
     "Untitled 1.base",
     "Untitled.base",
-    "level_3/resources/Móveis e utensílios.pdf",
     "level_1-2/homework.md",
     "level_3/Screenshot 2025-10-27 at 19.30.57.png",
     "level_3/Screenshot 2025-10-27 at 19.29.08.png",

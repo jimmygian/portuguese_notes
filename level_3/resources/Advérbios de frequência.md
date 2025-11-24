@@ -54,7 +54,7 @@ Eu **sempre** fui muito tímido.
 
   
 
-_She can_ **_rarely_** _forgive mistakes._
+ **Em tempos verbais com verbos auxiliares ou quando há verbos modais, os advérbios de frequência aparecem depois do auxiliar/verbo moda
 
 Ela **raramente** perdoa erros.
 
@@ -151,41 +151,41 @@ Eu **nunca** vou para a academia.
 
   
 
-|   |   |
-|---|---|
-|**Inglês**|**Português**|
-|**_once (a day)_**|uma vez (por dia)|
-|**_twice (a week)_**|duas vezes (por semana)|
-|**_three times (a month)_**|três vezes (por mês)|
-|**_several times (a year)_**|várias vezes (por ano)|
-|**_hourly_**|de hora em hora|
-|**_daily_**|diariamente|
-|**_fortnightly_**|quinzenalmente|
-|**_monthly_**|mensalmente|
-|**_yearly_**|anualmente|
-|**_every hour_**|de hora em hora|
-|**_every day_**|todos os dias|
-|**_every week_**|todas as semanas|
-|**_every month_**|todos os meses|
-|**_every year_**|todos os anos|
-|**_on Saturdays_**|aos sábados|
-|**_on Sundays_**|aos domingos|
-|**_on weekdays_**|nos dias da semana|
-|**_on weekends_**|aos fins de semana|
-|**Inglês**|**Português**|
-|**_always_**|sempre|
-|**_almost always_**|quase sempre|
-|**_nearly always_**|quase sempre|
-|**_regularly_**|regularmente|
-|**_usually_**|geralmente|
-|**_generally_**|geralmente|
-|**_normally_**|normalmente|
-|**_frequently_**|frequentemente|
-|**_often_**|frequentemente|
-|**_sometimes_**|às vezes|
-|**_occasionally_**|ocasionalmente|
-|**_rarely_**|raramente|
-|**_seldom_**|raramente|
-|**_almost never_**|quase nunca|
-|**_hardly ever_**|quase nunca|
-|**_never_**|nunca|
+|                              |                         |
+| ---------------------------- | ----------------------- |
+| **Inglês**                   | **Português**           |
+| **_once (a day)_**           | uma vez (por dia)       |
+| **_twice (a week)_**         | duas vezes (por semana) |
+| **_three times (a month)_**  | três vezes (por mês)    |
+| **_several times (a year)_** | várias vezes (por ano)  |
+| **_hourly_**                 | de hora em hora         |
+| **_daily_**                  | diariamente             |
+| **_fortnightly_**            | quinzenalmente          |
+| **_monthly_**                | mensalmente             |
+| **_yearly_**                 | anualmente              |
+| **_every hour_**             | de hora em hora         |
+| **_every day_**              | todos os dias           |
+| **_every week_**             | todas as semanas        |
+| **_every month_**            | todos os meses          |
+| **_every year_**             | todos os anos           |
+| **_on Saturdays_**           | aos sábados             |
+| **_on Sundays_**             | aos domingos            |
+| **_on weekdays_**            | nos dias da semana      |
+| **_on weekends_**            | aos fins de semana      |
+| **Inglês**                   | **Português**           |
+| **_always_**                 | sempre                  |
+| **_almost always_**          | quase sempre            |
+| **_nearly always_**          | quase sempre            |
+| **_regularly_**              | regularmente            |
+| **_usually_**                | geralmente              |
+| **_generally_**              | geralmente              |
+| **_normally_**               | normalmente             |
+| **_frequently_**             | frequentemente          |
+| **_often_**                  | frequentemente          |
+| **_sometimes_**              | às vezes                |
+| **_occasionally_**           | ocasionalmente          |
+| **_rarely_**                 | raramente               |
+| **_seldom_**                 | raramente               |
+| **_almost never_**           | quase nunca             |
+| **_hardly ever_**            | quase nunca             |
+| **_never_**                  | nunca                   |

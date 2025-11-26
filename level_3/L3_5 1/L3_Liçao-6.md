@@ -63,4 +63,8 @@ Ela ainda não fiz a tarefa? Ele já fez.
 
 **Não** fiz **nem** vou fazer.
 
+Proxima
+NAB --> until p53
+B5.
+
 

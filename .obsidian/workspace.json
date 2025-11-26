@@ -215,43 +215,6 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "floating": {
-    "id": "b8125aaabc2cb9ac",
-    "type": "floating",
-    "children": [
-      {
-        "id": "364dd56da842d211",
-        "type": "window",
-        "children": [
-          {
-            "id": "9e7e091f1d3c2ea6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a78bd3849ae21872",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "level_3/resources/Falar Ler Escrever Portugues.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Falar Ler Escrever Portugues"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 44,
-        "width": 900,
-        "height": 1125,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
   "active": "8307bbe469882665",
   "lastOpenFiles": [
     "level_3/resources/Falar Ler Escrever Portugues.pdf",

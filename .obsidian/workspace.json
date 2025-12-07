@@ -13,48 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level_3/L3_5 1/L3_Liçao-6.md",
+                "file": "level_3/L3_6/L3_Liçao-6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "L3_Liçao-6"
-            }
-          },
-          {
-            "id": "e289f70e5bb53909",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "level_3/resources/Gramatica Ativa 1 BR Version.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Gramatica Ativa 1 BR Version"
-            }
-          },
-          {
-            "id": "606539b9d5f9f1be",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "level_3/resources/NAB1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "NAB1"
-            }
-          },
-          {
-            "id": "41900e0992c88ab8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "level_3/resources/Móveis e utensílios_solved.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Móveis e utensílios_solved"
             }
           }
         ]
@@ -215,18 +179,20 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "8307bbe469882665",
+  "active": "f2c613f7c4ba486e",
   "lastOpenFiles": [
-    "level_3/resources/Falar Ler Escrever Portugues.pdf",
-    "level_3/L3_5 1/L3_Liçao-6.md",
-    "level_3/L3_5/L3_Liçao5.md",
+    "level_3/L3_6/L3_Liçao-6.md",
+    "level_3/L3_6/L3_Liçao-6.md",
+    "level_3/L3_6/Advérbios de frequência.md",
+    "level_3/L3_5/L3_Liçao-5.md",
+    "level_3/resources/Móveis e utensílios_solved.pdf",
+    "level_3/resources/NAB1.pdf",
     "level_3/resources/Gramatica Ativa 1 BR Version.pdf",
-    "level_3/L3_5 1/Advérbios de frequência.md",
-    "level_3/L3_5 1",
+    "level_3/resources/Falar Ler Escrever Portugues.pdf",
+    "level_3/L3_5/L3_Liçao5.md",
+    "level_3/L3_66",
     "level_3/L3_5/Advérbios de frequência.md",
     "level_3/resources/PREPOSIÇÕES DE LUGAR.md",
-    "level_3/resources/NAB1.pdf",
-    "level_3/resources/Móveis e utensílios_solved.pdf",
     "level_3/resources/Móveis e utensílios_clean.pdf",
     "level_3/L3_3/L3_Liçao4.md",
     "level_3/L3_5",

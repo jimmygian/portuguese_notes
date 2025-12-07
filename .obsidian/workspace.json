@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "2ab53fab09ad3e71",
+    "id": "effc68794fa14233",
     "type": "split",
     "children": [
       {
-        "id": "28e0d16a19c29f59",
+        "id": "87fadecc94320cb3",
         "type": "tabs",
         "children": [
           {
-            "id": "8307bbe469882665",
+            "id": "bb3f1865b6527ed8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "level_3/L3_7/L3_Liçao-7.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "L3_Liçao-7"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d14afa4ae22a13ec",
+    "id": "4f3daf93df292512",
     "type": "split",
     "children": [
       {
-        "id": "429c0f1afabe51c1",
+        "id": "878aa8479f038875",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c613f7c4ba486e",
+            "id": "dfaf83060faef93e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "33ce6ff888ea43eb",
+            "id": "df217fdc5eff6685",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "17a1e07c305c43fb",
+            "id": "1ebb087f138855d0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "235e795047c85c0e",
+    "id": "2737811f55a66594",
     "type": "split",
     "children": [
       {
-        "id": "8ba455f35122b062",
+        "id": "9c3d17b143cb6cbb",
         "type": "tabs",
         "children": [
           {
-            "id": "5698efc496424e1b",
+            "id": "5878fc2b1f97db13",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "489db8a528676e4a",
+            "id": "2b1af89c6ae1074f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +120,7 @@
             }
           },
           {
-            "id": "a4daaeade2f7b876",
+            "id": "73f92d38a2b5ac9d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +135,7 @@
             }
           },
           {
-            "id": "dd8b9b832fde60a8",
+            "id": "540f2a11e1887d0b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -143,72 +147,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "b8b9515fdd8cb149",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "f2c613f7c4ba486e",
-  "lastOpenFiles": [
-    "Untitled 1.base",
-    "Untitled.base",
-    "level_3/L4 - Lição 4 - Quick Notes 1.md",
-    "level_3/L3_6/L3_Liçao-6.md",
-    "level_3/L3_6/L3_Liçao-6.md",
-    "level_3/L3_6/Advérbios de frequência.md",
-    "level_3/L3_5/L3_Liçao-5.md",
-    "level_3/resources/Móveis e utensílios_solved.pdf",
-    "level_3/resources/NAB1.pdf",
-    "level_3/resources/Gramatica Ativa 1 BR Version.pdf",
-    "level_3/resources/Falar Ler Escrever Portugues.pdf",
-    "level_3/L3_5/L3_Liçao5.md",
-    "level_3/L3_66",
-    "level_3/L3_5/Advérbios de frequência.md",
-    "level_3/resources/PREPOSIÇÕES DE LUGAR.md",
-    "level_3/resources/Móveis e utensílios_clean.pdf",
-    "level_3/L3_3/L3_Liçao4.md",
-    "level_3/L3_5",
-    "level_3/L3_3",
-    "level_3/L3_1/Screenshot 2025-10-27 at 20.07.40.png",
-    "level_1-2/homework.md",
-    "level_3/Screenshot 2025-10-27 at 19.30.57.png",
-    "level_3/Screenshot 2025-10-27 at 19.29.08.png",
-    "level_3/preop d.png",
-    "level_3/lesson_quick_notes.md",
-    "level_1-2/vocabulary.md",
-    "level_1-2/Verbos.md",
-    "level_1-2/lessons_quick_notes.md",
-    "README.md",
-    "vocabulário.md",
-    "lições_de_casa.md",
-    "Lições de casa.md",
-    "test.md.md"
-  ]
+  "active": "bb3f1865b6527ed8",
+  "lastOpenFiles": []
 }

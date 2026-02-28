@@ -23,36 +23,18 @@
             "id": "c0dd715a31661cb7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "level_4/nab2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "nab2"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f9a1b1b3a8c8f7c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb916d7f1d6efed1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "level_4/Liçao_4/Liçao_4.md",
+                "file": "level_4/Liçao_5/CARREIRAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liçao_4"
+              "title": "CARREIRAS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +181,19 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "bb916d7f1d6efed1",
+  "active": "c0dd715a31661cb7",
   "lastOpenFiles": [
     "level_4/nab2.pdf",
+    "level_4/Liçao_5/Samba 2 - pg 57.pdf",
+    "level_4/Liçao_5/CARREIRAS.md",
+    "level_4/Liçao_5/Roupas.md",
+    "level_4/Liçao_5/Pretérito Imperfeito.md",
+    "level_4/Liçao_5/Roupas Avenida Brasil 2 1.docx",
+    "level_4/Liçao_5/Roupas Avenida Brasil 2.docx",
+    "level_4/Liçao_5/Fale Português 1- pg 43 Imperfeito.pdf",
     "level_4/Liçao_4/Liçao_4.md",
+    "level_4/Liçao_6",
+    "level_4/Liçao_5",
     "level_4/Gramática/Fale Português 1- pg 43 Imperfeito.pdf",
     "level_4/Liçao_4/Pronomes Indefinidos Variáveis.md",
     "level_4/Liçao_4/Track - No27.mp3",
@@ -211,11 +202,6 @@
     "level_4/Liçao_4/Gramática Ativa - unid 44 pronomes indiretos.png",
     "level_4/Liçao_4/gramática Ativa  Unid 44 - Pron Indiretos prática.png",
     "level_4/Gramática/Gramática Ativa - Unid 16 Imperf_.pdf",
-    "level_4/Liçao_3/Samba 1 pg 170.pdf",
-    "level_4/Gramática/Nota 10 pg 146.pdf",
-    "level_4/Gramática/Nota 10 pg 145.pdf",
-    "level_4/Gramática",
-    "level_4/Liçao_4",
     "level_4/Liçao_2/Liçao_2_conj.md",
     "level_4/Liçao_2/Liçao_2.md",
     "level_4/Liçao_1/Liçao_1.md",

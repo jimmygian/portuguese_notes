@@ -4,21 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "87fadecc94320cb3",
+        "id": "d41925f7a507e416",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3f1865b6527ed8",
+            "id": "a096fc6e2e42de99",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "level_4/Gramática/Fale Português 1- pg 43 Imperfeito.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Fale Português 1- pg 43 Imperfeito"
+            }
+          },
+          {
+            "id": "c0dd715a31661cb7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "level_4/nab2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "nab2"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f9a1b1b3a8c8f7c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb916d7f1d6efed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level_3/L3_7/L3_Liçao-7.md",
+                "file": "level_4/Liçao_4/Liçao_4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3_Liçao-7"
+              "title": "Liçao_4"
             }
           }
         ]
@@ -78,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2737811f55a66594",
@@ -168,6 +199,26 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "bb3f1865b6527ed8",
-  "lastOpenFiles": []
+  "active": "bb916d7f1d6efed1",
+  "lastOpenFiles": [
+    "level_4/nab2.pdf",
+    "level_4/Liçao_4/Liçao_4.md",
+    "level_4/Gramática/Fale Português 1- pg 43 Imperfeito.pdf",
+    "level_4/Liçao_4/Pronomes Indefinidos Variáveis.md",
+    "level_4/Liçao_4/Track - No27.mp3",
+    "level_4/Liçao_4/Pronomes Indefinidos.docx",
+    "level_4/Liçao_3/Liçao_3.md",
+    "level_4/Liçao_4/Gramática Ativa - unid 44 pronomes indiretos.png",
+    "level_4/Liçao_4/gramática Ativa  Unid 44 - Pron Indiretos prática.png",
+    "level_4/Gramática/Gramática Ativa - Unid 16 Imperf_.pdf",
+    "level_4/Liçao_3/Samba 1 pg 170.pdf",
+    "level_4/Gramática/Nota 10 pg 146.pdf",
+    "level_4/Gramática/Nota 10 pg 145.pdf",
+    "level_4/Gramática",
+    "level_4/Liçao_4",
+    "level_4/Liçao_2/Liçao_2_conj.md",
+    "level_4/Liçao_2/Liçao_2.md",
+    "level_4/Liçao_1/Liçao_1.md",
+    "level_3/L3_7/L3_Liçao-7.md"
+  ]
 }
